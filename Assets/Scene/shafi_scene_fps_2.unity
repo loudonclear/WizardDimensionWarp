@@ -513,7 +513,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 149790, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5426510, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
       propertyPath: m_AngularDrag
@@ -879,21 +879,22 @@ MonoBehaviour:
   pathPrefabs:
   - {fileID: 1312657474546724, guid: 901d67a55cb7f8748ab6694fc9d969d0, type: 2}
   - {fileID: 1312657474546724, guid: 901d67a55cb7f8748ab6694fc9d969d0, type: 2}
-  - {fileID: 1101355783788418, guid: 3dc86d6f29db4c14aba096278bd10b26, type: 2}
-  - {fileID: 1394532521721996, guid: 1716ebf2e88f89b4e8281e766e495d6d, type: 2}
-  - {fileID: 1308181382394608, guid: bf7811b0a2bdde24aa72acec0f885bb7, type: 2}
-  - {fileID: 1341040776065480, guid: 70e50f0b146a0064e98b7493ddac51ad, type: 2}
-  - {fileID: 1359535467248922, guid: 455861586748a7b4382984528cb7d7a5, type: 2}
-  - {fileID: 1974617069211282, guid: 25da0e030ea47124cbed6edbe4338967, type: 2}
-  - {fileID: 1251391876493574, guid: dde7cd25f992de74ab7de24a39ef3862, type: 2}
-  - {fileID: 1269708554540472, guid: 076b1a3055af54a40ba21553e9a74254, type: 2}
-  - {fileID: 1346707388227518, guid: 32fb36173257a51418bf9acd9a15aa2d, type: 2}
-  - {fileID: 1013208043322788, guid: ccdd0279218653e4ca5d017132ad08e5, type: 2}
-  - {fileID: 1269708554540472, guid: 076b1a3055af54a40ba21553e9a74254, type: 2}
-  - {fileID: 1394532521721996, guid: 1716ebf2e88f89b4e8281e766e495d6d, type: 2}
-  - {fileID: 1308181382394608, guid: bf7811b0a2bdde24aa72acec0f885bb7, type: 2}
-  - {fileID: 1251391876493574, guid: dde7cd25f992de74ab7de24a39ef3862, type: 2}
-  - {fileID: 1308181382394608, guid: bf7811b0a2bdde24aa72acec0f885bb7, type: 2}
+  - {fileID: 1873381218387582, guid: f96791702f77e8346b06dc1d357897b9, type: 2}
+  - {fileID: 1142726828838834, guid: 6e97b8ee0b1cfb94c83798bc776a1435, type: 2}
+  - {fileID: 1121639451747664, guid: b1300c95aa62aab418ad60a9cd277d8c, type: 2}
+  - {fileID: 1914808395315814, guid: e8d0e40260b6df14aa199f78d8a6a5d2, type: 2}
+  - {fileID: 1562736749762032, guid: ec63157913490b14cb0316a4bb401c30, type: 2}
+  - {fileID: 1512235265367640, guid: 6ddb12b9c0e32f444ba5d6e7cafcaa71, type: 2}
+  - {fileID: 1460810587647538, guid: 971c8fb644b17fc40af9f09852988b5b, type: 2}
+  - {fileID: 1745800589054982, guid: 217855ed4cf6cdc4f8f27d03a297b6fe, type: 2}
+  - {fileID: 1913766576456906, guid: 7ce1c2d39b6b52f4c85e0ec2ef833236, type: 2}
+  - {fileID: 1527218542401810, guid: 13bfe2ecd9e0dd343b528e077628ee88, type: 2}
+  - {fileID: 1210333408555278, guid: 5c1812e0849f4934fbb8f65b2d3fe29d, type: 2}
+  - {fileID: 1965707298713524, guid: 30a2208131cef3e48ba5038e36867736, type: 2}
+  - {fileID: 1803323914035336, guid: ce2740c3ea5d0884a824bd2cf1bd9ce6, type: 2}
+  - {fileID: 1246161656126806, guid: a667d237cc894184eb47f7d7a86733a5, type: 2}
+  - {fileID: 1273932561595288, guid: cdd69520724d811468e9e2ec8feb37eb, type: 2}
+  - {fileID: 1273932561595288, guid: cdd69520724d811468e9e2ec8feb37eb, type: 2}
   spawnDistance: 30
   player: {fileID: 1033313694}
 --- !u!4 &1211212458
